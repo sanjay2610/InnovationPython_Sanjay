@@ -1,0 +1,22 @@
+2. What are the differences between Git and GitHub ?
+    GIT is a version control system that lets the users manage and keep track of the source code history.
+    Whereas GitHub is a cloud-based hosting service that lets the user manage Git repositries.
+
+3. What is Git Workflow ?
+    A Git workflow is a recipe or recommedation for how to use Git to accomplish work in a consistent and
+    productive manner. GIT workflow encourages users to leverage Git effectively and consistently.
+
+4. How many types of version control systems are there ?
+    The two main categories of version control system are:
+        a. Centralized Version Control
+            The main concept of a centralized system is that it works in a client and server relationship. 
+            The repository is located in one place and provides access to many clients. It’s very similar 
+            to FTP in where you have an FTP client which connects to an FTP server. All changes, users, 
+            commits and information must be sent and received from this central repository.
+
+        b. Decentralized Version Control
+            In distributed version control, each user has their own copy of the entire repository, not just 
+            the files but the history as well. Think of it as a network of individual repositories. In many 
+            cases, even though the model is distributed, services like Beanstalk are used for simplifying the 
+            technical challenges of sharing changes. The two most popular distributed version control systems 
+            are Git and Mercurial.
